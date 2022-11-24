@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 mango 
 apple
 banana
+=======
+mcu
+decu
+harry potter
+>>>>>>> movies
